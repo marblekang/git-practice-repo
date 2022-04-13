@@ -1,5 +1,6 @@
 # git-practice-repo
-## git 연습을 위한 repo
 
-### INDEX
-- git 연습
+This proejct is to learn about git
+
+## INDEX
+- git 연습하는 중
